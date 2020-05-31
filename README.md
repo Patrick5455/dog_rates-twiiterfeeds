@@ -9,7 +9,7 @@
 
   > Summary of Assigments
 
-      >> Quality & Tidiness
+      >> `Quality` & `Tidiness`
 
 ### Clean data
 
