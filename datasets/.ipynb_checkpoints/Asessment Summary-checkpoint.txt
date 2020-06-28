@@ -1,0 +1,8 @@
+Quality
+None values in names needs to be fixed
+letters like a, b in names, needs to be fixed
+
+
+
+Tidiness
+Put the dog types in one column
