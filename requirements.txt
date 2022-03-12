@@ -88,7 +88,7 @@ patsy==0.5.1
 pbr==5.4.4
 pexpect==4.2.1
 pickleshare==0.7.5
-Pillow==5.1.0
+Pillow==9.0.1
 prettytable==0.7.2
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
